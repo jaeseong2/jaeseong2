@@ -4,8 +4,8 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭I'm currently developing and managing server side software in my work</li>
-<li>🧐 Now, I'm learning about <strong>Micro Service Architecture</strong> and <strong>Machine Learning</strong>, escpecially <strong>RL</strong> and <strong>NLP</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/jaeseong2">Github</a>.</li>
+<li>🧐 Now, I'm learning about <strong>Micro Service Architecture</strong> and <strong>Machine Learning</strong>, escpecially <strong>RL</strong> and <strong>Computer Vision</strong>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/jaesung8">Github</a>.</li>
 <li>📝 I regulary write articles on <a href="https://jaeseong2.github.io">my blog</a>.</li>
 <!--<li>📙 Check out my <a href="">resume</a>.</li>-->
 </ul>

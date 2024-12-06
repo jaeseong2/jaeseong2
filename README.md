@@ -6,14 +6,14 @@
 <li>🔭I'm currently developing and managing server side software in my work</li>
 <li>🧐 Now, I'm learning about <strong>Micro Service Architecture</strong> and <strong>Machine Learning</strong>, escpecially <strong>RL</strong> and <strong>Computer Vision</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/jaesung8">Github</a>.</li>
-<li>📝 I regulary write articles on <a href="https://jaeseong2.github.io">my blog</a>.</li>
+<li>📝 I regulary write articles on <a href="https://jaesung8.github.io">my blog</a>.</li>
 <!--<li>📙 Check out my <a href="">resume</a>.</li>-->
 </ul>
 
 <h2>✒️ Recent Posts</h2>
 <ul>
-<li><a target="_blank" href="https://jaeseong2.github.io">To be updated — September 28, 2022</a></li>
-<p><a target="_blank" href="https://jaeseong2.github.io">Read More</a></p>
+<li><a target="_blank" href="https://jaesung8.github.io">To be updated — September 28, 2022</a></li>
+<p><a target="_blank" href="https://jaesung8.github.io">Read More</a></p>
 </ul>
 
 <h2>🚀 Some Tools I Use</h2>
@@ -41,6 +41,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 </p>
 
-![Jaeseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeseong2&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeseong2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Jaeseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaesung8&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaesung8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

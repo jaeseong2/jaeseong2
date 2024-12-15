@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm Jaeseong Lee</a></h2>
-<p>I'm a software engineer at Tanker. I am working on some side projects.</p>
+<p>I'm a software engineer at Tanker. I'm currently developing and managing server side software in my work. I am working on some side projects.</p>
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
